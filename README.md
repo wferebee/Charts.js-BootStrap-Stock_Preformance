@@ -7,8 +7,10 @@
 ![Screenshot (130)](https://user-images.githubusercontent.com/53095806/113653513-f9b13100-9663-11eb-9dae-0a25096ef5dc.png)
 
 ## (2) - Shot of the graphs when some of the data has been un selected to get a better view of the data needed just for example
-![Screenshot (131)](https://user-images.githubusercontent.com/53095806/113653516-fb7af480-9663-11eb-88b7-ad02fa9c9950.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/53095806/113653517-fc138b00-9663-11eb-9ae5-73543c0c667d.png)
 
 ## (3) - Shot of the page when the window size is scalled down to show that it still looks nice and neat
-![Screenshot (129)](https://user-images.githubusercontent.com/53095806/113653517-fc138b00-9663-11eb-9ae5-73543c0c667d.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/53095806/113653516-fb7af480-9663-11eb-88b7-ad02fa9c9950.png)
+
+
 
